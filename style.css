@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color:rgb(201, 74, 247);
+}
+canvas {
+  display: block;
+  margin-left:20%;
+  border:blue dashed 4px;
+}
+h1{
+  colour:blue;
+}
