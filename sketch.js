@@ -96,7 +96,7 @@ function draw(){
       
   }
  console.log(monkey.x);
-  monkey.velocityY=monkey.velocityY+0.5;
+  monkey.velocityY=monkey.velocityY+1.5;
   
   if(frameCount%80==0){
   food();
